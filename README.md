@@ -1,4 +1,4 @@
-Demo: https://jianyangzhang.github.io/Template-timeline/
+Demo: https://jianyangzhang.github.io/widget-timeline/
 
 ![show0](https://cloud.githubusercontent.com/assets/22739177/21130282/3f1cb85e-c0bc-11e6-9eec-092c2ea828b9.PNG)
 
